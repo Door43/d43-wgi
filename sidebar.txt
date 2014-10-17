@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wgi:home|Door43 (wgi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wgi|d43-wgi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wgi/archive/master.zip|d43-wgi.zip]]
+
+**Recent Changes**
+{{changes>ns = wgi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wgi|Ethnologue data]]
+
